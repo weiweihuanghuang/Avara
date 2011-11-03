@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="70"
+   height="110"
+   id="svg2"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="p.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview65"
+     showgrid="false"
+     inkscape:zoom="2.3727273"
+     inkscape:cx="35"
+     inkscape:cy="55"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4290">
+      <stop
+         id="stop4292"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4294"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4417">
+      <stop
+         id="stop4419"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4421"
+         style="stop-color:#245573;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <filter
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB"
+       id="filter4377">
+      <feGaussianBlur
+         stdDeviation="78.557449209932273"
+         result="result8"
+         id="feGaussianBlur4379" />
+      <feTurbulence
+         seed="77"
+         result="result7"
+         type="fractalNoise"
+         numOctaves="8"
+         baseFrequency="0.03 0.03"
+         id="feTurbulence4381" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.6 -0.6 "
+         id="feColorMatrix4383" />
+      <feComposite
+         in2="result8"
+         operator="in"
+         in="result7"
+         result="result6"
+         id="feComposite4385" />
+      <feDisplacementMap
+         in2="result6"
+         scale="60"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         in="result5"
+         result="result4"
+         id="feDisplacementMap4387" />
+      <feConvolveMatrix
+         result="result9"
+         divisor="2"
+         targetY="2"
+         targetX="2"
+         kernelMatrix="2 0 0 0 4 0 0 0 -2 "
+         order="3 3"
+         id="feConvolveMatrix4389" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         in="result9"
+         result="result10"
+         id="feComposite4391" />
+      <feBlend
+         in2="result10"
+         mode="darken"
+         result="fbSourceGraphic"
+         id="feBlend4393" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur4395" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="#f2d76c"
+         surfaceScale="5"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting4397">
+        <feDistantLight
+           elevation="60"
+           azimuth="235"
+           id="feDistantLight4399" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphic"
+         operator="in"
+         in="result1"
+         result="result2"
+         id="feComposite4401" />
+      <feComposite
+         in2="result2"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         k3="1"
+         k4="0"
+         in="fbSourceGraphic"
+         result="result4"
+         id="feComposite4403" />
+    </filter>
+    <linearGradient
+       x1="389.96939"
+       y1="1236.9171"
+       x2="395.62625"
+       y2="1241.8668"
+       id="linearGradient4296"
+       xlink:href="#linearGradient4290"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="389.96939"
+       y1="1236.9171"
+       x2="395.62625"
+       y2="1241.8668"
+       id="linearGradient4339"
+       xlink:href="#linearGradient4290"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="389.96939"
+       y1="1236.9171"
+       x2="395.62625"
+       y2="1241.8668"
+       id="linearGradient4353"
+       xlink:href="#linearGradient4290"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#000000;stroke:none"
+     id="path5946"
+     d="m 0,0 10,10 0,90 -10,10 35,0 L 25,100 25,66.6563 35,70 45,70 60,65 70,45 70,25 60,5 45,0 35,0 20,5.0069 l -10,-5 z m 40,5 10,5 5,25 -5,25 -10,5 -10,-5 -5,-9.9931 0,-30 L 30,10 z" />
+</svg>
