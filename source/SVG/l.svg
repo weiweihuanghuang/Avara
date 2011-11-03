@@ -25,17 +25,21 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1128"
+     inkscape:window-height="698"
      id="namedview65"
-     showgrid="false"
-     inkscape:zoom="2.4855461"
-     inkscape:cx="17.5"
-     inkscape:cy="52.503551"
+     showgrid="true"
+     inkscape:zoom="16"
+     inkscape:cx="12.150902"
+     inkscape:cy="-3.5213028"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3678" />
+  </sodipodi:namedview>
   <defs
      id="defs4">
     <linearGradient
@@ -189,7 +193,8 @@
   </metadata>
   <path
      inkscape:connector-curvature="0"
-     d="m 0,5.004 10,4.9931 0,85 -10,10 10,0 10,0 15,0.01 L 25,95.0002 25,0 z"
+     d="m 0,5.007103 10,4.989997 0,85 -10,10 35,0.01 L 25,95.0002 25,0 z"
      id="path3062"
-     style="fill:#000000;stroke:none" />
+     style="fill:#000000;stroke:none"
+     sodipodi:nodetypes="cccccccc" />
 </svg>

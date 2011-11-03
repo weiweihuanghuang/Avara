@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="145"
+   height="145"
+   id="svg2">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4290">
+      <stop
+         id="stop4292"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4294"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4417">
+      <stop
+         id="stop4419"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4421"
+         style="stop-color:#245573;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <filter
+       x="-0.25"
+       y="-0.25"
+       width="1.5"
+       height="1.5"
+       color-interpolation-filters="sRGB"
+       id="filter4377">
+      <feGaussianBlur
+         stdDeviation="78.557449209932273"
+         result="result8"
+         id="feGaussianBlur4379" />
+      <feTurbulence
+         seed="77"
+         result="result7"
+         type="fractalNoise"
+         numOctaves="8"
+         baseFrequency="0.03 0.03"
+         id="feTurbulence4381" />
+      <feColorMatrix
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.6 -0.6 "
+         id="feColorMatrix4383" />
+      <feComposite
+         in2="result8"
+         operator="in"
+         in="result7"
+         result="result6"
+         id="feComposite4385" />
+      <feDisplacementMap
+         in2="result6"
+         scale="60"
+         xChannelSelector="A"
+         yChannelSelector="A"
+         in="result5"
+         result="result4"
+         id="feDisplacementMap4387" />
+      <feConvolveMatrix
+         result="result9"
+         divisor="2"
+         targetY="2"
+         targetX="2"
+         kernelMatrix="2 0 0 0 4 0 0 0 -2 "
+         order="3 3"
+         id="feConvolveMatrix4389" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         in="result9"
+         result="result10"
+         id="feComposite4391" />
+      <feBlend
+         in2="result10"
+         mode="darken"
+         result="fbSourceGraphic"
+         id="feBlend4393" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="fbSourceGraphic"
+         result="result0"
+         id="feGaussianBlur4395" />
+      <feSpecularLighting
+         in="result0"
+         result="result1"
+         lighting-color="#f2d76c"
+         surfaceScale="5"
+         specularConstant="1"
+         specularExponent="25"
+         id="feSpecularLighting4397">
+        <feDistantLight
+           elevation="60"
+           azimuth="235"
+           id="feDistantLight4399" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphic"
+         operator="in"
+         in="result1"
+         result="result2"
+         id="feComposite4401" />
+      <feComposite
+         in2="result2"
+         operator="arithmetic"
+         k1="0"
+         k2="1"
+         k3="1"
+         k4="0"
+         in="fbSourceGraphic"
+         result="result4"
+         id="feComposite4403" />
+    </filter>
+    <linearGradient
+       x1="389.96939"
+       y1="1236.9171"
+       x2="395.62625"
+       y2="1241.8668"
+       id="linearGradient4296"
+       xlink:href="#linearGradient4290"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="389.96939"
+       y1="1236.9171"
+       x2="395.62625"
+       y2="1241.8668"
+       id="linearGradient4339"
+       xlink:href="#linearGradient4290"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="389.96939"
+       y1="1236.9171"
+       x2="395.62625"
+       y2="1241.8668"
+       id="linearGradient4353"
+       xlink:href="#linearGradient4290"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1165,-1907.3622)"
+     id="layer1">
+    <g
+       id="g3410">
+      <rect
+         width="5"
+         height="5"
+         x="1220"
+         y="1992.3622"
+         id="rect3348"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1215"
+         y="1997.3622"
+         id="rect3350"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1210"
+         y="2002.3622"
+         id="rect3352"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1205"
+         y="2007.3622"
+         id="rect3354"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1200"
+         y="2012.3622"
+         id="rect3356"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1190"
+         y="2022.3622"
+         id="rect3358"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1195"
+         y="2017.3622"
+         id="rect3360"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1185"
+         y="2027.3622"
+         id="rect3362"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1290"
+         y="1922.3622"
+         id="rect3364"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1285"
+         y="1927.3622"
+         id="rect3366"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1280"
+         y="1932.3622"
+         id="rect3368"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1275"
+         y="1937.3622"
+         id="rect3370"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1270"
+         y="1942.3622"
+         id="rect3372"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1265"
+         y="1947.3622"
+         id="rect3374"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1260"
+         y="1952.3622"
+         id="rect3376"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1255"
+         y="1957.3622"
+         id="rect3378"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1250"
+         y="1962.3622"
+         id="rect3380"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1245"
+         y="1967.3622"
+         id="rect3382"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1240"
+         y="1972.3622"
+         id="rect3384"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1235"
+         y="1977.3622"
+         id="rect3386"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1230"
+         y="1982.3622"
+         id="rect3388"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1225"
+         y="1987.3622"
+         id="rect3390"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1305"
+         y="1907.3622"
+         id="rect3396"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1300"
+         y="1912.3622"
+         id="rect3398"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1295"
+         y="1917.3622"
+         id="rect3400"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1180"
+         y="2032.3622"
+         id="rect3402"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1175"
+         y="2037.3622"
+         id="rect3404"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1170"
+         y="2042.3622"
+         id="rect3406"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <rect
+         width="5"
+         height="5"
+         x="1165"
+         y="2047.3622"
+         id="rect3408"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    </g>
+  </g>
+</svg>
