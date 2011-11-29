@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1320277816
-ModificationTime: 1322118245
+ModificationTime: 1322580805
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -35,6 +35,7 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+OS2Vendor: 'PfEd'
 DEI: 91125
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -157,7 +158,7 @@ Grid
 -996 560 m 0
  2004 560 l 0
 EndSplineSet
-BeginChars: 256 29
+BeginChars: 256 31
 
 StartChar: R
 Encoding: 82 82 0
@@ -195,7 +196,7 @@ SplineSet
  360 760 l 5
  240 760 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: B
@@ -239,7 +240,7 @@ SplineSet
  360 360 l 1
  200 400.031 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: a
@@ -329,7 +330,7 @@ SplineSet
  119.438 717.844 l 1
  159.438 718.219 l 1
 EndSplineSet
-Validated: 6815745
+Validated: 1
 EndChar
 
 StartChar: g
@@ -390,7 +391,7 @@ SplineSet
  320 -42 l 1
  200 -2 l 1
 EndSplineSet
-Validated: 6291457
+Validated: 1
 EndChar
 
 StartChar: edieresis
@@ -443,7 +444,7 @@ SplineSet
  119.438 719.844 l 5
  159.438 720.219 l 5
 EndSplineSet
-Validated: 6815745
+Validated: 1
 EndChar
 
 StartChar: g
@@ -504,7 +505,7 @@ SplineSet
  340 -40 l 5
  220 0 l 5
 EndSplineSet
-Validated: 6291457
+Validated: 1
 EndChar
 
 StartChar: t
@@ -535,7 +536,7 @@ SplineSet
  160 720 l 1
  200 720 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: p
@@ -575,7 +576,7 @@ SplineSet
  400 479.994 l 5
  320 519.994 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: o
@@ -638,7 +639,7 @@ SplineSet
  20 480.016 l 5
  220 559.959 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: s
@@ -674,7 +675,6 @@ SplineSet
  460 480.001 l 1
  380 400.001 l 1
 EndSplineSet
-Validated: 524289
 EndChar
 
 StartChar: u
@@ -707,7 +707,6 @@ SplineSet
  576 80 l 1
  576 40 l 1
 EndSplineSet
-Validated: 5
 EndChar
 
 StartChar: e
@@ -879,7 +878,7 @@ SplineSet
  0 520 l 1
  200 560 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: n
@@ -954,7 +953,7 @@ SplineSet
  320.167 480.002 l 5
  240.167 520.002 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: d
@@ -1167,7 +1166,7 @@ StartChar: at
 Encoding: 64 64 23
 Width: 739
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1379,6 +1378,80 @@ SplineSet
  0 0 l 25
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: C
+Encoding: 67 67 29
+Width: 722
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+432 798 m 25
+ 602 716 l 25
+ 642 642 l 25
+ 562 564 l 25
+ 482 562 l 25
+ 482 684 l 25
+ 362 760 l 25
+ 242 686 l 25
+ 162 562 l 17
+ 132 400 l 1
+ 160 244 l 9
+ 240 90 l 25
+ 400 38 l 25
+ 522 82 l 17
+ 600 160 l 5
+ 642 240 l 9
+ 682 200 l 25
+ 602 78 l 25
+ 482 0 l 17
+ 280 0 l 1
+ 120 82 l 1
+ 40 196 l 1
+ 0 400 l 1
+ 42 600 l 9
+ 122 724 l 25
+ 290 798 l 25
+ 432 798 l 25
+EndSplineSet
+EndChar
+
+StartChar: D
+Encoding: 68 68 30
+Width: 700
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+0 800 m 1
+ 360 800.023 l 1
+ 560 724 l 1
+ 672 600 l 1
+ 720 402 l 1
+ 700 240 l 1
+ 600 40.0781 l 1
+ 440 0.078125 l 1
+ 0 0 l 1
+ 80 80 l 1
+ 80 720 l 1
+ 0 800 l 1
+560 554 m 1
+ 520 638 l 1
+ 440 720 l 1
+ 360 760 l 1
+ 240 760 l 1
+ 200 720 l 1
+ 200 79.9766 l 1
+ 240 39.9766 l 1
+ 400 40.0547 l 1
+ 480 80.0547 l 1
+ 560 158 l 1
+ 600 398 l 1
+ 560 554 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
