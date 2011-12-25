@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1320277816
-ModificationTime: 1324846175
+ModificationTime: 1324855657
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,6 +36,7 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
+Lookup: 258 0 0 "auto"  {"auto"  } []
 DEI: 91125
 Encoding: ISO8859-1
 UnicodeInterp: none
@@ -158,7 +159,7 @@ Grid
 -996 560 m 0
  2004 560 l 0
 EndSplineSet
-BeginChars: 256 46
+BeginChars: 256 48
 
 StartChar: R
 Encoding: 82 82 0
@@ -197,6 +198,8 @@ SplineSet
  360 760 l 1
  240 760 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 37 -50 "auto"  12 -45 "auto"  19 -70 "auto"  8 -62 "auto"  9 -86 "auto"  25 -102 "auto"  6 -84 "auto"  13 -86 "auto"  20 -66 "auto"  26 -66 "auto"  24 -62 "auto"  2 -45 "auto" 
 EndChar
 
 StartChar: B
@@ -241,6 +244,7 @@ SplineSet
  200 400.031 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 28 -73 "auto"  19 48 "auto"  20 48 "auto"  26 48 "auto"  2 48 "auto"  27 -67 "auto"  18 -71 "auto"  25 -72 "auto" 
 EndChar
 
 StartChar: a
@@ -278,6 +282,8 @@ SplineSet
  280 160 l 1
  280 320 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 45 -50 "auto"  43 -50 "auto"  37 -40 "auto"  34 -50 "auto"  29 -50 "auto"  27 -40 "auto"  12 -44 "auto"  7 -80 "auto"  19 -47 "auto"  8 -80 "auto"  9 -64 "auto"  18 -55 "auto"  25 -120 "auto"  6 -80 "auto"  13 -64 "auto"  20 -44 "auto"  26 -44 "auto"  24 -80 "auto" 
 EndChar
 
 StartChar: edieresis
@@ -505,6 +511,8 @@ SplineSet
  360 -40 l 1
  240 0 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 0 -248 "auto"  45 -178 "auto"  44 -248 "auto"  43 -178 "auto"  42 -248 "auto"  41 -248 "auto"  39 -248 "auto"  38 -248 "auto"  37 -373 "auto"  36 -248 "auto"  35 -248 "auto"  34 -178 "auto"  33 -248 "auto"  32 -248 "auto"  30 -248 "auto"  29 -178 "auto"  1 -248 "auto"  28 -260 "auto"  27 -339 "auto"  12 -172 "auto"  7 -173 "auto"  11 -245 "auto"  10 -168 "auto"  19 -209 "auto"  8 -168 "auto"  9 -232 "auto"  18 -208 "auto"  17 -168 "auto"  16 -248 "auto"  25 -96 "auto"  14 -168 "auto"  15 -248 "auto"  6 -243 "auto"  40 -212 "auto"  13 -232 "auto"  20 -212 "auto"  26 -212 "auto"  24 -248 "auto"  2 -168 "auto" 
 EndChar
 
 StartChar: t
@@ -536,6 +544,8 @@ SplineSet
  160 720 l 1
  200 720 l 1
 EndSplineSet
+Validated: 5
+Kerns2: 8 -54 "auto"  9 -45 "auto"  18 -46 "auto"  25 -63 "auto"  6 -61 "auto"  13 -45 "auto"  24 -61 "auto" 
 EndChar
 
 StartChar: p
@@ -574,6 +584,8 @@ SplineSet
  400 480 l 1
  320 520 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 45 47 "auto"  43 47 "auto"  34 47 "auto"  29 47 "auto"  28 -70 "auto"  19 50 "auto"  20 50 "auto"  26 50 "auto"  2 50 "auto"  7 -48 "auto"  18 -69 "auto" 
 EndChar
 
 StartChar: o
@@ -608,6 +620,7 @@ SplineSet
  260 520 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 0 -59 "auto"  44 -59 "auto"  42 -59 "auto"  41 -59 "auto"  39 -59 "auto"  38 -59 "auto"  37 -51 "auto"  36 -59 "auto"  35 -59 "auto"  33 -59 "auto"  32 -59 "auto"  30 -59 "auto"  1 -59 "auto"  28 -100 "auto"  27 -62 "auto"  7 -78 "auto"  10 -59 "auto"  8 -59 "auto"  18 -99 "auto"  17 -59 "auto"  16 -59 "auto"  25 -68 "auto"  15 -59 "auto"  40 -59 "auto"  24 -59 "auto" 
 EndChar
 
 StartChar: r
@@ -637,41 +650,45 @@ SplineSet
  0 480 l 1
  200 560 l 1
 EndSplineSet
+Validated: 5
+Kerns2: 0 -90 "auto"  44 -90 "auto"  42 -90 "auto"  41 -90 "auto"  39 -90 "auto"  38 -90 "auto"  37 -250 "auto"  36 -90 "auto"  35 -90 "auto"  33 -90 "auto"  32 -90 "auto"  30 -90 "auto"  1 -90 "auto"  28 -241 "auto"  27 -293 "auto"  12 -68 "auto"  7 -68 "auto"  11 -74 "auto"  10 -49 "auto"  8 -49 "auto"  9 -57 "auto"  18 -89 "auto"  17 -49 "auto"  16 -90 "auto"  25 -58 "auto"  15 -90 "auto"  6 -58 "auto"  40 -108 "auto"  13 -57 "auto"  24 -90 "auto" 
 EndChar
 
 StartChar: s
 Encoding: 115 115 11
 Width: 520
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-380 400.001 m 1
- 340 520.001 l 1
- 260 520.001 l 1
- 180 480.001 l 1
- 180 400.001 l 1
- 460 280.001 l 1
- 500 200.001 l 1
- 420 40.001 l 1
- 220 0.000976562 l 1
- 100 40.001 l 1
- 20 120.001 l 1
- 100 200.001 l 1
- 140 80.0557 l 1
- 220 40.001 l 1
- 340 80.001 l 1
- 380 120.001 l 1
- 380 160.001 l 1
- 100 320.001 l 1
- 60 400.001 l 1
- 100 520.001 l 1
- 220 560.001 l 1
- 380 560.001 l 1
- 460 480.001 l 1
- 380 400.001 l 1
+360 400 m 1
+ 320 520 l 1
+ 240 520 l 1
+ 160 480 l 1
+ 160 400 l 1
+ 440 280 l 1
+ 480 200 l 1
+ 400 40 l 1
+ 240 0 l 5
+ 200 0 l 1
+ 80 40 l 1
+ 0 120 l 1
+ 80 200 l 1
+ 120 80 l 1
+ 200 40 l 1
+ 320 80 l 1
+ 360 120 l 1
+ 360 160 l 1
+ 80 320 l 1
+ 40 400 l 1
+ 80 520 l 1
+ 200 560 l 1
+ 360 560 l 1
+ 440 480 l 1
+ 360 400 l 1
 EndSplineSet
+Kerns2: 28 -70 "auto"  19 49 "auto"  20 49 "auto"  26 49 "auto"  2 49 "auto"  18 -61 "auto"  25 -61 "auto" 
 EndChar
 
 StartChar: u
@@ -706,6 +723,8 @@ SplineSet
  560 80 l 1
  560 40 l 1
 EndSplineSet
+Validated: 5
+Kerns2: 45 -50 "auto"  43 -50 "auto"  37 -40 "auto"  34 -50 "auto"  29 -50 "auto"  27 -40 "auto"  12 -44 "auto"  7 -80 "auto"  19 -47 "auto"  8 -80 "auto"  9 -64 "auto"  18 -55 "auto"  25 -120 "auto"  6 -80 "auto"  13 -64 "auto"  20 -44 "auto"  26 -44 "auto"  24 -80 "auto" 
 EndChar
 
 StartChar: e
@@ -743,35 +762,37 @@ SplineSet
  260 520 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 0 -62 "auto"  45 47 "auto"  44 -62 "auto"  43 47 "auto"  42 -62 "auto"  41 -62 "auto"  39 -62 "auto"  38 -62 "auto"  36 -62 "auto"  35 -62 "auto"  34 47 "auto"  33 -62 "auto"  32 -62 "auto"  30 -62 "auto"  29 47 "auto"  1 -62 "auto"  28 -62 "auto"  19 49 "auto"  20 49 "auto"  26 49 "auto"  2 42 "auto"  7 -48 "auto"  18 -69 "auto"  16 -62 "auto"  15 -62 "auto"  40 -62 "auto" 
 EndChar
 
 StartChar: i
 Encoding: 105 105 14
 Width: 300
 VWidth: 0
-Flags: HW
+Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-20 480 m 1
- 220 560 l 1
- 220 80 l 1
- 300 0 l 1
- 20 0 l 1
- 100 80 l 1
- 100 440 l 1
- 20 480 l 1
-140 600 m 5
- 60 640 l 5
- 60 680 l 5
- 100 760 l 5
- 140 760 l 5
- 220 720 l 5
- 220 680 l 5
- 180 600 l 5
- 140 600 l 5
+0 480 m 1
+ 200 560 l 1
+ 200 80 l 1
+ 280 0 l 1
+ 0 0 l 1
+ 80 80 l 1
+ 80 440 l 1
+ 0 480 l 1
+120 600 m 1
+ 40 640 l 1
+ 40 680 l 1
+ 80 760 l 1
+ 120 760 l 5
+ 200 720 l 1
+ 200 680 l 1
+ 160 600 l 1
+ 120 600 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 37 -67 "auto"  12 -61 "auto"  11 -49 "auto"  8 -60 "auto"  9 -49 "auto"  25 -100 "auto"  6 -82 "auto"  13 -49 "auto"  24 -60 "auto"  2 -45 "auto" 
 EndChar
 
 StartChar: h
@@ -806,6 +827,8 @@ SplineSet
  80 720 l 1
  0 760 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 45 -42 "auto"  43 -42 "auto"  37 -79 "auto"  34 -42 "auto"  29 -42 "auto"  27 -45 "auto"  12 -84 "auto"  7 -69 "auto"  11 -61 "auto"  19 -41 "auto"  8 -73 "auto"  9 -61 "auto"  25 -113 "auto"  6 -94 "auto"  13 -61 "auto"  20 -41 "auto"  26 -41 "auto"  24 -72 "auto"  2 -57 "auto" 
 EndChar
 
 StartChar: l
@@ -825,6 +848,8 @@ SplineSet
  80 720 l 1
  0 760 l 5
 EndSplineSet
+Validated: 1
+Kerns2: 45 -50 "auto"  43 -50 "auto"  37 -87 "auto"  34 -50 "auto"  29 -50 "auto"  27 -53 "auto"  12 -81 "auto"  7 -49 "auto"  11 -69 "auto"  19 -49 "auto"  8 -80 "auto"  9 -69 "auto"  18 -40 "auto"  25 -120 "auto"  6 -102 "auto"  13 -69 "auto"  20 -49 "auto"  26 -49 "auto"  24 -80 "auto"  2 -65 "auto" 
 EndChar
 
 StartChar: m
@@ -875,13 +900,17 @@ SplineSet
  0 480 l 1
  200 560 l 1
 EndSplineSet
+Validated: 5
+Kerns2: 0 40 "auto"  44 40 "auto"  42 40 "auto"  41 40 "auto"  39 40 "auto"  38 40 "auto"  37 -47 "auto"  36 40 "auto"  35 40 "auto"  33 40 "auto"  32 40 "auto"  30 40 "auto"  1 40 "auto"  28 40 "auto"  10 40 "auto"  17 40 "auto"  16 40 "auto"  14 40 "auto"  15 40 "auto"  40 40 "auto"  12 -52 "auto"  7 -68 "auto"  8 -41 "auto"  25 -81 "auto"  6 -62 "auto"  24 -40 "auto" 
 EndChar
 
 StartChar: n
 Encoding: 110 110 18
 Width: 680
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 21G<40 320 400 680> 540 20G<190 240 360 480>
+VStem: 120 120<80 360> 480 120<80 440>
 LayerCount: 2
 Fore
 SplineSet
@@ -909,6 +938,8 @@ SplineSet
  120 440 l 1
  40 480 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 0 40 "auto"  44 40 "auto"  42 40 "auto"  41 40 "auto"  39 40 "auto"  38 40 "auto"  37 -47 "auto"  36 40 "auto"  35 40 "auto"  33 40 "auto"  32 40 "auto"  30 40 "auto"  1 40 "auto"  28 40 "auto"  10 40 "auto"  17 40 "auto"  16 40 "auto"  14 40 "auto"  15 40 "auto"  40 40 "auto"  12 -52 "auto"  7 -68 "auto"  8 -41 "auto"  25 -81 "auto"  6 -62 "auto"  24 -40 "auto" 
 EndChar
 
 StartChar: q
@@ -949,6 +980,7 @@ SplineSet
  240.167 520.002 l 5
 EndSplineSet
 Validated: 1
+Kerns2: 0 -480 "auto"  45 -427 "auto"  44 -480 "auto"  43 -427 "auto"  42 -480 "auto"  41 -480 "auto"  39 -480 "auto"  38 -480 "auto"  37 -521 "auto"  36 -480 "auto"  35 -480 "auto"  34 -427 "auto"  33 -480 "auto"  32 -480 "auto"  30 -480 "auto"  29 -427 "auto"  1 -480 "auto"  28 -480 "auto"  27 -520 "auto"  12 -407 "auto"  7 -401 "auto"  11 -469 "auto"  10 -447 "auto"  19 -449 "auto"  8 -401 "auto"  9 -469 "auto"  18 -487 "auto"  17 -447 "auto"  16 -480 "auto"  25 -367 "auto"  14 -447 "auto"  15 -480 "auto"  6 -489 "auto"  40 -441 "auto"  13 -469 "auto"  20 -449 "auto"  26 -449 "auto"  24 -481 "auto"  2 -448 "auto" 
 EndChar
 
 StartChar: d
@@ -989,6 +1021,8 @@ SplineSet
  320 480 l 1
  240 520 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 45 -50 "auto"  43 -50 "auto"  37 -40 "auto"  34 -50 "auto"  29 -50 "auto"  27 -40 "auto"  12 -44 "auto"  7 -80 "auto"  19 -47 "auto"  8 -80 "auto"  9 -64 "auto"  18 -54 "auto"  25 -120 "auto"  6 -80 "auto"  13 -64 "auto"  20 -44 "auto"  26 -44 "auto"  24 -80 "auto" 
 EndChar
 
 StartChar: uni007F
@@ -1208,6 +1242,7 @@ SplineSet
  0 280 l 1
  40 520 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: b
@@ -1246,6 +1281,7 @@ SplineSet
  320 520 l 1
 EndSplineSet
 Validated: 9
+Kerns2: 0 -50 "auto"  44 -50 "auto"  42 -50 "auto"  41 -50 "auto"  39 -50 "auto"  38 -50 "auto"  37 -41 "auto"  36 -50 "auto"  35 -50 "auto"  33 -50 "auto"  32 -50 "auto"  30 -50 "auto"  1 -50 "auto"  28 -91 "auto"  27 -52 "auto"  10 -49 "auto"  8 -49 "auto"  18 -89 "auto"  17 -49 "auto"  16 -50 "auto"  25 -58 "auto"  15 -50 "auto"  40 -50 "auto"  24 -49 "auto" 
 EndChar
 
 StartChar: j
@@ -1283,6 +1319,7 @@ SplineSet
  160 600 l 1
 EndSplineSet
 Validated: 1
+Kerns2: 0 -40 "auto"  44 -40 "auto"  42 -40 "auto"  41 -40 "auto"  39 -40 "auto"  38 -40 "auto"  37 -81 "auto"  36 -40 "auto"  35 -40 "auto"  33 -40 "auto"  32 -40 "auto"  30 -40 "auto"  1 -40 "auto"  28 -40 "auto"  25 70 "auto"  27 -80 "auto"  12 -40 "auto"  10 -40 "auto"  8 -40 "auto"  18 -80 "auto"  17 -40 "auto"  16 -40 "auto"  14 -40 "auto"  15 -40 "auto"  6 -50 "auto"  40 -40 "auto"  24 -53 "auto" 
 EndChar
 
 StartChar: c
@@ -1320,6 +1357,7 @@ SplineSet
  320 480 l 1
 EndSplineSet
 Validated: 5
+Kerns2: 0 -82 "auto"  44 -82 "auto"  42 -82 "auto"  41 -82 "auto"  39 -82 "auto"  38 -82 "auto"  36 -82 "auto"  35 -82 "auto"  33 -82 "auto"  32 -82 "auto"  30 -82 "auto"  1 -82 "auto"  28 -82 "auto"  7 -68 "auto"  10 -49 "auto"  8 -49 "auto"  18 -89 "auto"  17 -49 "auto"  16 -82 "auto"  25 -58 "auto"  15 -82 "auto"  6 -56 "auto"  40 -82 "auto"  24 -50 "auto" 
 EndChar
 
 StartChar: period
@@ -1370,6 +1408,8 @@ SplineSet
  231.429 280 l 1
  487.286 280 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 45 -124 "auto"  43 -124 "auto"  37 -82 "auto"  34 -124 "auto"  29 -124 "auto"  27 -47 "auto"  12 -87 "auto"  7 -122 "auto"  11 -110 "auto"  19 -91 "auto"  8 -74 "auto"  9 -107 "auto"  25 -114 "auto"  6 -96 "auto"  13 -107 "auto"  20 -87 "auto"  26 -87 "auto"  24 -74 "auto"  2 -57 "auto" 
 EndChar
 
 StartChar: C
@@ -1380,18 +1420,7 @@ Flags: HWO
 LayerCount: 2
 Fore
 SplineSet
-470 800 m 25
- 640 720 l 25
- 680 640 l 25
- 600 560 l 25
- 520 560 l 25
- 520 680 l 17
- 440 760 l 1
- 360 760 l 9
- 240 680 l 25
- 160 560 l 17
- 120 400 l 1
- 160 240 l 9
+160 240 m 13
  240 80 l 25
  400 40 l 25
  520 80 l 17
@@ -1408,7 +1437,19 @@ SplineSet
  120 720 l 25
  280 800 l 25
  470 800 l 25
+ 640 720 l 25
+ 680 640 l 25
+ 600 560 l 25
+ 520 560 l 25
+ 520 680 l 17
+ 440 760 l 1
+ 360 760 l 9
+ 240 680 l 25
+ 160 560 l 21
+ 160 240 l 13
 EndSplineSet
+Validated: 1
+Kerns2: 0 -53 "auto"  44 -53 "auto"  42 -53 "auto"  41 -53 "auto"  39 -53 "auto"  38 -53 "auto"  37 -43 "auto"  36 -53 "auto"  35 -53 "auto"  33 -53 "auto"  32 -53 "auto"  30 -53 "auto"  1 -53 "auto"  28 -87 "auto"  27 -58 "auto"  10 -52 "auto"  8 -52 "auto"  18 -92 "auto"  17 -52 "auto"  16 -55 "auto"  25 -53 "auto"  15 -55 "auto"  6 -57 "auto"  40 -53 "auto"  24 -55 "auto" 
 EndChar
 
 StartChar: D
@@ -1445,6 +1486,7 @@ SplineSet
  600 400 l 5
  560 560 l 1
 EndSplineSet
+Kerns2: 0 -51 "auto"  44 -51 "auto"  42 -51 "auto"  41 -51 "auto"  39 -51 "auto"  38 -51 "auto"  37 -75 "auto"  36 -51 "auto"  35 -51 "auto"  33 -51 "auto"  32 -51 "auto"  30 -51 "auto"  1 -51 "auto"  28 -130 "auto"  27 -92 "auto"  18 -56 "auto"  16 -51 "auto"  15 -51 "auto"  24 -51 "auto" 
 EndChar
 
 StartChar: E
@@ -1479,6 +1521,7 @@ SplineSet
  560 44 l 25
  640 118 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: E
@@ -1515,6 +1558,8 @@ SplineSet
  600 200 l 1
  640 200 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 0 -80 "auto"  45 -83 "auto"  44 -80 "auto"  43 -83 "auto"  42 -80 "auto"  41 -80 "auto"  39 -80 "auto"  38 -80 "auto"  37 -121 "auto"  36 -80 "auto"  35 -80 "auto"  34 -83 "auto"  33 -80 "auto"  32 -80 "auto"  30 -80 "auto"  29 -83 "auto"  1 -80 "auto"  28 -80 "auto"  27 -120 "auto"  12 -89 "auto"  7 -160 "auto"  11 -70 "auto"  10 -80 "auto"  19 -50 "auto"  8 -160 "auto"  9 -71 "auto"  18 -120 "auto"  17 -80 "auto"  16 -80 "auto"  25 -200 "auto"  14 -80 "auto"  15 -80 "auto"  6 -160 "auto"  40 -80 "auto"  13 -71 "auto"  20 -51 "auto"  26 -51 "auto"  24 -120 "auto"  2 -50 "auto" 
 EndChar
 
 StartChar: F
@@ -1547,6 +1592,8 @@ SplineSet
  280 0 l 25
  0 0 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 0 -120 "auto"  45 -139 "auto"  44 -120 "auto"  43 -139 "auto"  42 -120 "auto"  41 -120 "auto"  39 -120 "auto"  38 -120 "auto"  37 -280 "auto"  36 -120 "auto"  35 -120 "auto"  34 -139 "auto"  33 -120 "auto"  32 -120 "auto"  30 -120 "auto"  29 -139 "auto"  1 -120 "auto"  28 -331 "auto"  27 -493 "auto"  12 -200 "auto"  7 -169 "auto"  11 -230 "auto"  10 -200 "auto"  19 -169 "auto"  8 -200 "auto"  9 -189 "auto"  18 -240 "auto"  17 -200 "auto"  16 -120 "auto"  25 -169 "auto"  14 -129 "auto"  15 -120 "auto"  6 -209 "auto"  40 -169 "auto"  13 -189 "auto"  20 -169 "auto"  26 -169 "auto"  24 -120 "auto"  2 -200 "auto" 
 EndChar
 
 StartChar: G
@@ -1557,7 +1604,11 @@ Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-560 280 m 1
+160 240 m 5
+ 240 90 l 1
+ 440 40 l 1
+ 560 120 l 1
+ 560 280 l 1
  480 360 l 1
  760 360 l 1
  680 280 l 1
@@ -1573,21 +1624,17 @@ SplineSet
  280 800 l 1
  470 800 l 1
  640 720 l 1
- 680 640 l 5
+ 680 640 l 1
  600 560 l 1
  520 560 l 1
  520 680 l 1
  440 760 l 1
  360 760 l 1
  240 680 l 1
- 160 560 l 1
- 130 400 l 1
- 160 240 l 1
- 240 90 l 1
- 440 40 l 1
- 560 120 l 1
- 560 280 l 1
+ 160 560 l 5
+ 160 240 l 5
 EndSplineSet
+Kerns2: 45 105 "auto"  43 105 "auto"  37 -43 "auto"  34 105 "auto"  29 105 "auto"  12 68 "auto"  11 46 "auto"  19 107 "auto"  9 87 "auto"  6 67 "auto"  13 87 "auto"  20 107 "auto"  26 107 "auto"  2 62 "auto"  27 -42 "auto"  18 -42 "auto" 
 EndChar
 
 StartChar: H
@@ -1624,11 +1671,13 @@ SplineSet
  0 800 l 1
  280 800 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 45 -50 "auto"  43 -50 "auto"  37 -87 "auto"  34 -50 "auto"  29 -50 "auto"  27 -53 "auto"  12 -81 "auto"  7 -49 "auto"  11 -69 "auto"  19 -49 "auto"  8 -80 "auto"  9 -69 "auto"  18 -40 "auto"  25 -120 "auto"  6 -102 "auto"  13 -69 "auto"  20 -49 "auto"  26 -49 "auto"  2 -65 "auto" 
 EndChar
 
 StartChar: I
 Encoding: 73 73 36
-Width: 760
+Width: 320
 VWidth: 0
 Flags: HW
 LayerCount: 2
@@ -1644,6 +1693,8 @@ SplineSet
  200 720 l 9
  200 80 l 25
 EndSplineSet
+Validated: 1
+Kerns2: 45 -50 "auto"  43 -50 "auto"  37 -87 "auto"  34 -50 "auto"  29 -50 "auto"  27 -53 "auto"  12 -81 "auto"  7 -49 "auto"  11 -69 "auto"  19 -49 "auto"  8 -80 "auto"  9 -69 "auto"  18 -40 "auto"  25 -120 "auto"  6 -102 "auto"  13 -69 "auto"  20 -49 "auto"  26 -49 "auto"  2 -65 "auto" 
 EndChar
 
 StartChar: J
@@ -1670,6 +1721,8 @@ SplineSet
  80 200 l 1
  120 160 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 0 -281 "auto"  45 -330 "auto"  44 -281 "auto"  43 -330 "auto"  42 -281 "auto"  41 -281 "auto"  39 -281 "auto"  38 -281 "auto"  37 -401 "auto"  36 -281 "auto"  35 -281 "auto"  34 -330 "auto"  33 -281 "auto"  32 -281 "auto"  30 -281 "auto"  29 -330 "auto"  1 -281 "auto"  28 -403 "auto"  27 -401 "auto"  12 -360 "auto"  7 -329 "auto"  11 -349 "auto"  10 -360 "auto"  19 -329 "auto"  8 -360 "auto"  9 -349 "auto"  18 -400 "auto"  17 -360 "auto"  16 -287 "auto"  25 -369 "auto"  14 -329 "auto"  15 -287 "auto"  6 -369 "auto"  40 -370 "auto"  13 -349 "auto"  20 -329 "auto"  26 -329 "auto"  24 -287 "auto"  2 -329 "auto" 
 EndChar
 
 StartChar: K
@@ -1703,6 +1756,8 @@ SplineSet
  480 360 l 1
  720 0 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 45 -153 "auto"  43 -153 "auto"  37 -76 "auto"  34 -153 "auto"  29 -153 "auto"  27 -53 "auto"  12 -89 "auto"  7 -116 "auto"  11 -56 "auto"  19 -93 "auto"  8 -84 "auto"  9 -109 "auto"  18 -44 "auto"  25 -124 "auto"  6 -104 "auto"  13 -109 "auto"  20 -89 "auto"  26 -89 "auto"  24 -49 "auto"  2 -67 "auto" 
 EndChar
 
 StartChar: L
@@ -1727,6 +1782,8 @@ SplineSet
  200 720 l 9
  200 80 l 17
 EndSplineSet
+Validated: 1
+Kerns2: 0 -120 "auto"  45 -123 "auto"  44 -120 "auto"  43 -123 "auto"  42 -120 "auto"  41 -120 "auto"  39 -120 "auto"  38 -120 "auto"  37 -161 "auto"  36 -120 "auto"  35 -120 "auto"  34 -123 "auto"  33 -120 "auto"  32 -120 "auto"  30 -120 "auto"  29 -123 "auto"  1 -120 "auto"  28 -120 "auto"  27 -160 "auto"  12 -129 "auto"  7 -200 "auto"  11 -110 "auto"  10 -120 "auto"  19 -90 "auto"  8 -200 "auto"  9 -111 "auto"  18 -160 "auto"  17 -120 "auto"  16 -120 "auto"  25 -240 "auto"  14 -120 "auto"  15 -120 "auto"  6 -200 "auto"  40 -120 "auto"  13 -111 "auto"  20 -91 "auto"  26 -91 "auto"  24 -200 "auto"  2 -90 "auto" 
 EndChar
 
 StartChar: f
@@ -1763,6 +1820,8 @@ SplineSet
  200 720 l 1
  200 560 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 45 -48 "auto"  43 -48 "auto"  37 -164 "auto"  34 -48 "auto"  29 -48 "auto"  28 -124 "auto"  27 -177 "auto"  12 -84 "auto"  7 -53 "auto"  11 -177 "auto"  10 -118 "auto"  19 -151 "auto"  8 -117 "auto"  9 -171 "auto"  18 -158 "auto"  17 -118 "auto"  25 -54 "auto"  6 -188 "auto"  40 -54 "auto"  13 -171 "auto"  20 -120 "auto"  26 -151 "auto"  2 -104 "auto" 
 EndChar
 
 StartChar: M
@@ -1793,6 +1852,8 @@ SplineSet
  240 800 l 1
  480 230 l 9
 EndSplineSet
+Validated: 1
+Kerns2: 0 -131 "auto"  45 -180 "auto"  44 -131 "auto"  43 -180 "auto"  42 -131 "auto"  41 -131 "auto"  39 -131 "auto"  38 -131 "auto"  37 -217 "auto"  36 -131 "auto"  35 -131 "auto"  34 -180 "auto"  33 -131 "auto"  32 -131 "auto"  30 -131 "auto"  29 -180 "auto"  1 -131 "auto"  28 -130 "auto"  27 -183 "auto"  12 -211 "auto"  7 -179 "auto"  11 -199 "auto"  10 -130 "auto"  19 -179 "auto"  8 -210 "auto"  9 -199 "auto"  18 -170 "auto"  17 -130 "auto"  16 -131 "auto"  25 -250 "auto"  14 -130 "auto"  15 -131 "auto"  6 -232 "auto"  40 -130 "auto"  13 -199 "auto"  20 -179 "auto"  26 -179 "auto"  24 -137 "auto"  2 -195 "auto" 
 EndChar
 
 StartChar: N
@@ -1820,6 +1881,8 @@ SplineSet
  640 720 l 1
  640 -40 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 0 -331 "auto"  45 -380 "auto"  44 -331 "auto"  43 -380 "auto"  42 -331 "auto"  41 -331 "auto"  39 -331 "auto"  38 -331 "auto"  37 -451 "auto"  36 -331 "auto"  35 -331 "auto"  34 -380 "auto"  33 -331 "auto"  32 -331 "auto"  30 -331 "auto"  29 -380 "auto"  1 -331 "auto"  28 -410 "auto"  27 -450 "auto"  12 -410 "auto"  7 -379 "auto"  11 -399 "auto"  10 -410 "auto"  19 -379 "auto"  8 -410 "auto"  9 -399 "auto"  18 -450 "auto"  17 -410 "auto"  16 -337 "auto"  25 -419 "auto"  14 -410 "auto"  15 -337 "auto"  6 -419 "auto"  40 -410 "auto"  13 -399 "auto"  20 -379 "auto"  26 -379 "auto"  24 -337 "auto"  2 -379 "auto" 
 EndChar
 
 StartChar: O
@@ -1857,6 +1920,8 @@ SplineSet
  760 200 l 1
  680 80 l 9
 EndSplineSet
+Validated: 1
+Kerns2: 0 -51 "auto"  44 -51 "auto"  42 -51 "auto"  41 -51 "auto"  39 -51 "auto"  38 -51 "auto"  37 -80 "auto"  36 -51 "auto"  35 -51 "auto"  33 -51 "auto"  32 -51 "auto"  30 -51 "auto"  1 -51 "auto"  28 -125 "auto"  27 -96 "auto"  18 -53 "auto"  16 -51 "auto"  15 -51 "auto"  24 -51 "auto" 
 EndChar
 
 StartChar: P
@@ -1890,13 +1955,15 @@ SplineSet
  360 760 l 1
  240 760 l 1
 EndSplineSet
+Validated: 1
+Kerns2: 0 -71 "auto"  44 -71 "auto"  42 -71 "auto"  41 -71 "auto"  39 -71 "auto"  38 -71 "auto"  37 -231 "auto"  36 -71 "auto"  35 -71 "auto"  33 -71 "auto"  32 -71 "auto"  30 -71 "auto"  1 -71 "auto"  28 -253 "auto"  27 -433 "auto"  12 -40 "auto"  11 -140 "auto"  10 -56 "auto"  19 -75 "auto"  8 -56 "auto"  9 -95 "auto"  18 -96 "auto"  17 -56 "auto"  16 -89 "auto"  25 -65 "auto"  15 -89 "auto"  6 -98 "auto"  13 -95 "auto"  20 -75 "auto"  26 -75 "auto"  24 -89 "auto"  2 -56 "auto" 
 EndChar
 
 StartChar: Q
 Encoding: 81 81 45
 Width: 840
 VWidth: 0
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1924,7 +1991,7 @@ SplineSet
  760 -80 l 1
  640 -120 l 1
  560 -120 l 1
- 440 -40 l 1
+ 440 -40 l 5
  400 0 l 1
  280 0 l 1
  120 80 l 1
@@ -1945,8 +2012,92 @@ SplineSet
  400 40 l 1
  360 120 l 1
  280 160 l 1
- 240 120 l 5
+ 240 120 l 1
  240 80 l 1
+EndSplineSet
+Validated: 1
+Kerns2: 37 -80 "auto"  27 -93 "auto"  18 -53 "auto"  24 -51 "auto" 
+EndChar
+
+StartChar: S
+Encoding: 83 83 46
+Width: 722
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+160 240 m 9
+ 240 80 l 25
+ 400 40 l 25
+ 520 80 l 17
+ 600 160 l 1
+ 640 240 l 9
+ 680 200 l 25
+ 600 80 l 25
+ 480 0 l 17
+ 280 0 l 1
+ 120 80 l 1
+ 40 200 l 1
+ 0 400 l 1
+ 40 600 l 9
+ 120 720 l 25
+ 280 800 l 25
+ 470 800 l 25
+ 640 720 l 25
+ 680 640 l 25
+ 600 560 l 25
+ 520 560 l 25
+ 520 680 l 17
+ 440 760 l 1
+ 360 760 l 9
+ 240 680 l 25
+ 160 560 l 17
+ 160 240 l 9
+EndSplineSet
+EndChar
+
+StartChar: S
+Encoding: 83 83 47
+Width: 722
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+200 560 m 1
+ 240 520 l 1
+ 560 400 l 9
+ 640 360 l 17
+ 680 240 l 1
+ 600 120 l 1
+ 450 0 l 1
+ 240 0 l 1
+ 100 80 l 9
+ 40 170 l 25
+ 160 240 l 25
+ 200 120 l 17
+ 280 40 l 5
+ 400 40 l 1
+ 480 120 l 1
+ 520 200 l 1
+ 480 280 l 1
+ 160 400 l 1
+ 80 520 l 1
+ 80 600 l 9
+ 160 720 l 25
+ 280 800 l 25
+ 430 800 l 25
+ 600 720 l 25
+ 640 640 l 25
+ 560 560 l 25
+ 480 560 l 25
+ 480 680 l 17
+ 400 760 l 1
+ 320 760 l 9
+ 240 720 l 25
+ 200 640 l 17
+ 200 560 l 1
 EndSplineSet
 EndChar
 EndChars
