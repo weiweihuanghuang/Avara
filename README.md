@@ -7,6 +7,7 @@ Designed using <a href="http://fontforge.sourceforge.net/">FontForge</a> ; [FR d
 ## Specimen
 
 ![Specimen 1](https://github.com/raphaelbastide/Avara/raw/master/specimen/specimen.png)
+
 ![Specimen 2](https://github.com/raphaelbastide/Avara/raw/master/specimen/lowercase-g.png)
 
 ## License
