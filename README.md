@@ -2,7 +2,7 @@
 
 Open source transitional serif curveless font.
 
-Designed using <a href="http://fontforge.sourceforge.net/">FontForge</a> ; [FR doc] <a href="http://fr.flossmanuals.net/fontes-libres/">Fontes libres</a>
+Designed using <a href="http://fontforge.sourceforge.net/">FontForge</a> — [FR doc]: <a href="http://fr.flossmanuals.net/fontes-libres/">Fontes libres</a>
 
 ## Specimen
 
