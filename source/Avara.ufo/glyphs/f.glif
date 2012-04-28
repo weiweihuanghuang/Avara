@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="444"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="200" y="560" type="line" smooth="no"/>
+      <point x="320" y="560" type="line" smooth="no"/>
+      <point x="320" y="520" type="line" smooth="no"/>
+      <point x="280" y="520" type="line" smooth="no"/>
+      <point x="200" y="480" type="line" smooth="no"/>
+      <point x="200" y="80" type="line" smooth="no"/>
+      <point x="280" y="0" type="line" smooth="no"/>
+      <point x="0" y="0" type="line" smooth="no"/>
+      <point x="80" y="80" type="line" smooth="no"/>
+      <point x="80" y="480" type="line" smooth="no"/>
+      <point x="40" y="520" type="line" smooth="no"/>
+      <point x="40" y="560" type="line" smooth="no"/>
+      <point x="80" y="560" type="line" smooth="no"/>
+      <point x="80" y="680" type="line" smooth="no"/>
+      <point x="120" y="760" type="line" smooth="yes"/>
+      <point x="160" y="800" type="line" smooth="no"/>
+      <point x="320" y="840" type="line" smooth="no"/>
+      <point x="400" y="800" type="line" smooth="no"/>
+      <point x="400" y="680" type="line" smooth="yes"/>
+      <point x="360" y="640" type="line" smooth="no"/>
+      <point x="280" y="680" type="line" smooth="no"/>
+      <point x="320" y="760" type="line" smooth="no"/>
+      <point x="240" y="800" type="line" smooth="no"/>
+      <point x="200" y="720" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

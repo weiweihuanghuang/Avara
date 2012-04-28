@@ -1,0 +1,36 @@
+// Type Design Boilerplate V0.1
+// https://github.com/raphaelbastide/typedesignboilerplate
+{
+    "typeface": {
+        "name": "Avara",
+        "authors": [
+            "Raphael Bastide"
+        ],
+        "licence": "OFL",
+        "unicode-ranges": "Basic Latin",
+        "tags": [
+            "serif",
+            "curveless",
+            "lapidaire",
+            "transitional"
+            "angular"
+        ],
+        "repository-URL": "https://github.com/raphaelbastide/Avara",
+        "project-URL": "https://website.com/demofontproject",
+        "download-URL": "https://github.com/raphaelbastide/Avara/zipball/master",
+        "softwares": [
+            "Inkscape",
+            "Fontforge"
+        ],
+        "similar-fonts": [
+            "Alike Angular",
+            "Larish Neue"
+        ],
+        "sample-text": "No curve, no problem. Avara is open source.",
+        "font": {
+            "name": "Avara Book",
+            "weight": "book",
+            "creation-date": "2012"
+        }
+    }
+}

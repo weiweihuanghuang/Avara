@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="712"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="360" y="280" type="line" smooth="no"/>
+      <point x="120" y="280" type="line" smooth="no"/>
+      <point x="360" y="680" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="360" y="800" type="line" smooth="no"/>
+      <point x="40" y="280" type="line" smooth="no"/>
+      <point x="80" y="200" type="line" smooth="no"/>
+      <point x="360" y="200" type="line" smooth="no"/>
+      <point x="360" y="80" type="line" smooth="no"/>
+      <point x="280" y="0" type="line" smooth="no"/>
+      <point x="560" y="0" type="line" smooth="no"/>
+      <point x="480" y="80" type="line" smooth="no"/>
+      <point x="480" y="200" type="line" smooth="no"/>
+      <point x="600" y="200" type="line" smooth="no"/>
+      <point x="600" y="280" type="line" smooth="no"/>
+      <point x="480" y="280" type="line" smooth="no"/>
+      <point x="480" y="840" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

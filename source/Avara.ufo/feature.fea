@@ -1,0 +1,73 @@
+
+# GPOS 
+
+
+lookup Hkern {
+  lookupflag 0;
+    pos \a \d 9;
+    pos \F \a -202;
+  subtable;
+    @kc1_first_0 = [\b ];
+    @kc1_first_1 = [\m \n \i ];
+    @kc1_first_2 = [\a \u ];
+    @kc1_first_3 = [\o ];
+    @kc1_first_4 = [\r ];
+    @kc1_first_5 = [\p ];
+    @kc1_first_6 = [\t ];
+    @kc1_first_7 = [\e ];
+    @kc1_second_1 = [\d ];
+    @kc1_second_2 = [\m \n \i \r ];
+    @kc1_second_3 = [\u ];
+    @kc1_second_4 = [\o ];
+    @kc1_second_5 = [\a ];
+    @kc1_second_6 = [\t ];
+    @kc1_second_7 = [\e ];
+    @kc1_second_8 = [\p ];
+    pos @kc1_first_0 @kc1_second_5 67;
+    pos @kc1_first_1 @kc1_second_2 67;
+    pos @kc1_first_1 @kc1_second_3 67;
+    pos @kc1_first_1 @kc1_second_4 40;
+    pos @kc1_first_1 @kc1_second_5 53;
+    pos @kc1_first_1 @kc1_second_6 67;
+    pos @kc1_first_1 @kc1_second_7 80;
+    pos @kc1_first_1 @kc1_second_8 67;
+    pos @kc1_first_2 @kc1_second_2 40;
+    pos @kc1_first_2 @kc1_second_3 40;
+    pos @kc1_first_2 @kc1_second_4 13;
+    pos @kc1_first_2 @kc1_second_5 27;
+    pos @kc1_first_3 @kc1_second_1 53;
+    pos @kc1_first_3 @kc1_second_2 26;
+    pos @kc1_first_3 @kc1_second_3 53;
+    pos @kc1_first_3 @kc1_second_4 54;
+    pos @kc1_first_3 @kc1_second_5 40;
+    pos @kc1_first_3 @kc1_second_7 54;
+    pos @kc1_first_4 @kc1_second_1 -40;
+    pos @kc1_first_4 @kc1_second_2 -40;
+    pos @kc1_first_4 @kc1_second_4 -40;
+    pos @kc1_first_4 @kc1_second_6 -40;
+    pos @kc1_first_5 @kc1_second_3 93;
+    pos @kc1_first_5 @kc1_second_4 107;
+    pos @kc1_first_5 @kc1_second_5 93;
+    pos @kc1_first_5 @kc1_second_6 67;
+    pos @kc1_first_5 @kc1_second_7 93;
+    pos @kc1_first_6 @kc1_second_6 27;
+    pos @kc1_first_6 @kc1_second_7 67;
+    pos @kc1_first_7 @kc1_second_1 53;
+    pos @kc1_first_7 @kc1_second_2 26;
+    pos @kc1_first_7 @kc1_second_3 53;
+    pos @kc1_first_7 @kc1_second_4 54;
+    pos @kc1_first_7 @kc1_second_5 80;
+    pos @kc1_first_7 @kc1_second_6 67;
+    pos @kc1_first_7 @kc1_second_7 66;
+} Hkern;
+
+feature kern {
+
+  script DFLT;
+     language dflt ;
+      lookup Hkern;
+
+  script latn;
+     language dflt ;
+      lookup Hkern;
+} kern;
