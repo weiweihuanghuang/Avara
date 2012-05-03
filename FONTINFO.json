@@ -4,7 +4,7 @@
     "typeface": {
         "name": "Avara",
         "authors": [
-            "Raphael Bastide"
+            "Raphaël Bastide"
         ],
         "licence": "OFL",
         "unicode-ranges": "Basic Latin",
@@ -12,8 +12,10 @@
             "serif",
             "curveless",
             "lapidaire",
-            "transitional"
-            "angular"
+            "transitional",
+            "angular",
+            "libre",
+            "open source"
         ],
         "repository-URL": "https://github.com/raphaelbastide/Avara",
         "project-URL": "https://website.com/demofontproject",
