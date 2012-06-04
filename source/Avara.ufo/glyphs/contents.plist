@@ -164,5 +164,39 @@
 	<string>equal.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
+	<key>egrave</key>
+	<string>egrave.glif</string>
+	<key>eacute</key>
+	<string>eacute.glif</string>
+	<key>ecircumflex</key>
+	<string>ecircumflex.glif</string>
+	<key>igrave</key>
+	<string>igrave.glif</string>
+	<key>iacute</key>
+	<string>iacute.glif</string>
+	<key>icircumflex</key>
+	<string>icircumflex.glif</string>
+	<key>idieresis</key>
+	<string>idieresis.glif</string>
+	<key>ae</key>
+	<string>ae.glif</string>
+	<key>ccedilla</key>
+	<string>ccedilla.glif</string>
+	<key>agrave</key>
+	<string>agrave.glif</string>
+	<key>aacute</key>
+	<string>aacute.glif</string>
+	<key>acircumflex</key>
+	<string>acircumflex.glif</string>
+	<key>atilde</key>
+	<string>atilde.glif</string>
+	<key>adieresis</key>
+	<string>adieresis.glif</string>
+	<key>aring</key>
+	<string>aring.glif</string>
+	<key>slash</key>
+	<string>slash.glif</string>
+	<key>ampersand</key>
+	<string>ampersand.glif</string>
     </dict>
 </plist>

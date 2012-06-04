@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="X" format="1">
-  <advance width="840"/>
+  <advance width="800"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
       <point x="600" y="720" type="line" smooth="no"/>
       <point x="520" y="800" type="line" smooth="no"/>
-      <point x="770" y="800" type="line" smooth="no"/>
+      <point x="760" y="800" type="line" smooth="no"/>
       <point x="680" y="720" type="line" smooth="no"/>
       <point x="440" y="440" type="line" smooth="no"/>
       <point x="680" y="124" type="line" smooth="no"/>

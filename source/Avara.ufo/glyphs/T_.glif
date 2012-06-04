@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="794"/>
+  <advance width="720"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="674" y="640" type="line" smooth="no"/>
+      <point x="680" y="640" type="line" smooth="no"/>
       <point x="640" y="640" type="line" smooth="no"/>
       <point x="560" y="720" type="line" smooth="no"/>
       <point x="400" y="760" type="line" smooth="no"/>

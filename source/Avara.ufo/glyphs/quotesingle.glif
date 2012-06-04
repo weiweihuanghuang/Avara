@@ -8,9 +8,9 @@
       <point x="40" y="760" type="line" smooth="no"/>
       <point x="80" y="800" type="line" smooth="no"/>
       <point x="120" y="800" type="line" smooth="no"/>
-      <point x="160" y="759" type="line" smooth="no"/>
+      <point x="160" y="760" type="line" smooth="no"/>
       <point x="160" y="720" type="line" smooth="no"/>
-      <point x="80" y="599" type="line" smooth="no"/>
+      <point x="80" y="600" type="line" smooth="no"/>
     </contour>
   </outline>
 </glyph>
