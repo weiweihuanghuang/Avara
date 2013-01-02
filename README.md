@@ -1,6 +1,6 @@
 # Avara
 
-Open source transitional serif curveless font. Work in progress…
+Libre transitional serif curveless font. Work in progress…
 
 Designed using <a href="http://fontforge.sourceforge.net/">FontForge</a> — <a href="http://fr.flossmanuals.net/fontes-libres/">[FR doc]</a>
 
